@@ -57,3 +57,8 @@ func init() {
 }
 
 ```
+
+## Author
+
+**sonnt85** — [thanhson.rf@gmail.com](mailto:thanhson.rf@gmail.com)
+
