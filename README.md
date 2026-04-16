@@ -1,4 +1,6 @@
 # strcase
+
+[![Go Reference](https://pkg.go.dev/badge/github.com/sonnt85/strcase.svg)](https://pkg.go.dev/github.com/sonnt85/strcase)
 [![Godoc Reference](https://godoc.org/github.com/isonnt85/strcase?status.svg)](http://godoc.org/github.com/isonnt85/strcase)
 [![Build Status](https://travis-ci.com/isonnt85/strcase.svg)](https://travis-ci.com/isonnt85/strcase)
 [![Coverage](http://gocover.io/_badge/github.com/isonnt85/strcase?0)](http://gocover.io/github.com/isonnt85/strcase)
